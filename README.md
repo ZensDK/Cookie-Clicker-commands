@@ -6,15 +6,15 @@
 
 
 <div align="center">
-<h1 align="center">Game.cookies=999</h1>
+<h1 align="center">Game.cookies=0</h1>
 Sets owned cookies to specified number
 
 <div align="center">
-<h1 align="center">Game.Earn(999)</h1>
+<h1 align="center">Game.Earn(0)</h1>
 Adds specified number of cookies to existing total
 
 <div align="center">
-<h1 align="center">Game.cookies -=999</h1>
+<h1 align="center">Game.cookies -=0</h1>
 Removes specified number of cookies from existing total
 
 <div align="center">
@@ -22,5 +22,5 @@ Removes specified number of cookies from existing total
 Grants infinity cookies; Doesn't reset when reloading the browser tab
 
 <div align="center">
-<h1 align="center">Game.storeToRebuild = 1</h1>
+<h1 align="center">Game.storeToRebuild = 0</h1>
 Makes all buildings free
